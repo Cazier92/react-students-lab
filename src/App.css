@@ -12,6 +12,16 @@
   margin: 50px;
 }
 
-.user-card {
-  background-color: blue;
+.student-card {
+  background-color: #0C1713;
+  border-radius: 5px;
+}
+
+.student-info {
+  color: antiquewhite;
+}
+
+main {
+  background-color: #6BD425;
+  height: 100%;
 }
